@@ -3,7 +3,7 @@
 <h3 align="center">A passionate to be Fullstack Web Developer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="left"> <a href="https://twitter.com/baaayyyys" target="blank"><img src="https://img.shields.io/twitter/follow/baaayyyys?logo=twitter&style=for-the-badge" alt="baaayyyys" /></a> </p>
+<p align="left"> <a href="https://twitter.com/baaayyys" target="blank"><img src="https://img.shields.io/twitter/follow/baaayyys?logo=twitter&style=for-the-badge" alt="baaayyys" /></a> </p>
 
 - 🔭 I’m currently working on [FSWD3-HTML-DASAR](https://github.com/bayunimous/fswd3-html-dasar)
 
@@ -27,7 +27,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/baaayyyys" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="baaayyyys" height="30" width="40" /></a>
+<a href="https://twitter.com/
+         yyyys" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="baaayyys" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bayu-nugrahaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bayu-nugrahaa" height="30" width="40" /></a>
 <a href="https://fb.com/404notfoundaccountx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="404notfoundaccountx" height="30" width="40" /></a>
 <a href="https://instagram.com/bayu.ngrhaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bayu.ngrhaa" height="30" width="40" /></a>
