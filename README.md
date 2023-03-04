@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/bayunimous/](https://github.com/bayunimous/)
 
-- 📝 I regularly write articles on [https://www.warez-31.blogspot.com](https://www.warez-31.blogspot.com)
+- 📝 I regularly write articles on [[https://warez31.blogspot.com](https://warez31.blogspot.com)]([https://www.warez-31.blogspot.com](https://warez31.blogspot.com))
 
 - 💬 Ask me about **HTML, CSS, Javascript, DOM**
 
