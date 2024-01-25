@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/baaayyys" target="blank"><img src="https://img.shields.io/twitter/follow/baaayyys?logo=twitter&style=for-the-badge" alt="baaayyys" /></a> </p>
 
-- 🔭 I’m currently working on [FSWD3-HTML-DASAR](https://github.com/bayunimous/fswd3-html-dasar)
+- 🔭 I’m currently working on [FINAL PROJECT ON MY COLLEGE]([https://github.com/bayunimous/fswd3-html-dasar](https://github.com/bayunimous/PKL-Project))
 
 - 🌱 I’m currently learning **Javascript DOM, ReactJs, Vue, Angular, Python**
 
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **jigs4wcode@gmail.com**
 
-- 📄 Know about my experiences [https://bayunimous.github.io/tugas2-fswd-arkatama/](https://bayunimous.github.io/tugas2-fswd-arkatama/)
+- 📄 Know about my portfolio [https://bayunugraha-portfolio.000webhostapp.com/]([https://bayunimous.github.io/tugas2-fswd-arkatama](https://bayunugraha-portfolio.000webhostapp.com/)/)
 
 - ⚡ Fun fact **I think i wanna to be Android Developer tho.**
 
